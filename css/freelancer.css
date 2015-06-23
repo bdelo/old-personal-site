@@ -188,7 +188,7 @@ section.success {
     color: #fff;
     /*background: #18bc9c;*/
     background: darkorange;
-    padding-bottom: 100px;
+    /*padding-bottom: 100px;*/
 }
 
 section.success a,
@@ -201,9 +201,9 @@ section.success a.active {
 }
 
 @media(max-width:767px) {
-    section {
+/*    section {
         padding: 75px 0;
-    }
+    }*/
 
     section.first {
         padding-top: 75px;
